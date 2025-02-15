@@ -1,0 +1,42 @@
+{
+  "Version": 3,
+  "ItemType": "Shorts",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.0,
+        "_BumpScale": 1.0,
+        "_Glossiness": 0.0,
+        "_OcclusionStrength": 1.0,
+        "_MicrofiberFuzzIntensity": 0.162,
+        "_MicrofiberFuzzScatter": 0.066,
+        "_MicrofiberFuzzOcclusion": 1.0
+      },
+      "Colors": {
+        "_Color": {
+          "r": 0.882352948,
+          "g": 0.882352948,
+          "b": 0.872619867
+        },
+        "_SpecColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        },
+        "_MicrofiberFuzzColor": {
+          "r": 0.7941176,
+          "g": 0.7941176,
+          "b": 0.7941176
+        }
+      }
+    }
+  ]
+}
